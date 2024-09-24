@@ -6,9 +6,9 @@ In this study, different Recurrent Neural Network (RNN) based time-series foreca
 
 The study combines two sources of data. 
 
-i) Monthly Meteroloical Data is pulled from weather.gc.ca and consolidated into a single CSV file using "Combining Data.ipynb".
+i) Monthly Meteroloical Data is pulled from weather.gc.ca 
 
-ii) Load Time series obtained from Memorial University of Newfoundland.
+ii) Load Time series is obtained from Memorial University of Newfoundland.
 
 The basic network architecture is given below: 
 
