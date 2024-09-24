@@ -13,3 +13,7 @@ ii) Load Time series is obtained from Memorial University of Newfoundland.
 Both these datasets are combined and we obtain the file named Data.xlsx. The 4 code files train the dataset using the basic network architecture shown below:
 
 ![image](https://github.com/user-attachments/assets/253044cb-77d0-453f-9338-b1b53255618b)
+
+Following image shows predictions for different days:
+
+![image](https://github.com/user-attachments/assets/04b9d9cd-7169-4103-aa71-e4850242bafa)
