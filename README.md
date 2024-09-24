@@ -10,8 +10,6 @@ i) Monthly Meteroloical Data is pulled from weather.gc.ca
 
 ii) Load Time series is obtained from Memorial University of Newfoundland.
 
-Both these datasets are combined and we obtain the file named Data.xlsx.
-
-The basic network architecture is given below: 
+Both these datasets are combined and we obtain the file named Data.xlsx. The 4 code files train the dataset using the basic network archotecture shown below:
 
 ![image](https://github.com/user-attachments/assets/253044cb-77d0-453f-9338-b1b53255618b)
