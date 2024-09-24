@@ -10,7 +10,7 @@ i) Monthly Meteroloical Data is pulled from weather.gc.ca
 
 ii) Load Time series is obtained from Memorial University of Newfoundland.
 
-Both these datasets are cpmbined and we obtain the file named Data.xlsx.
+Both these datasets are combined and we obtain the file named Data.xlsx.
 
 The basic network architecture is given below: 
 
