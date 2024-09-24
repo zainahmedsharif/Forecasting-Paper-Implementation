@@ -1,4 +1,4 @@
-**Campus Electric Load Forecasting Using Recurrent Neural Networks** 
+**Comparing different Recurrent Neural Networks performance on Memorial University of Newfoundland (MUN) dataset** 
 
 In this study, different Recurrent Neural Network (RNN) based time-series forecasting algorithms are applied to the electric load data obtained from the Memorial University of Newfoundland. These algorithms include Long Short Term Memory (LSTM), Gated Recurrent Network (GRU), Bi-GRU and Bi-LSTM. The data is trained on the previous week and its accuracy for the next day is measured using hourly forecasts. The accuracy of these algorithms is compared for day-ahead forecasting potential. Bi-GRU based RNN shows best performance among the tested algorithms with the highest R2 score and lowest Mean Absolute Error (MAE) and Mean Squared Error (MSE). 
 
