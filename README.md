@@ -14,6 +14,6 @@ Both these datasets are combined and we obtain the file named Data.xlsx. The 4 c
 
 ![image](https://github.com/user-attachments/assets/253044cb-77d0-453f-9338-b1b53255618b)
 
-Following image shows predictions for different days:
+Following image show the prediction profile for different days:
 
 ![image](https://github.com/user-attachments/assets/1288e3f0-1064-4f40-84d7-ca10f4fc1efc)
